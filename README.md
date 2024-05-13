@@ -1,8 +1,44 @@
-# React + Vite
+<h1>Project Name: AI Chatbot Web Application </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description:
 
-Currently, two official plugins are available:
+## This project aims to create a web-based AI chatbot screen using ReactJS for the frontend. The application includes features such as a secure login page and dynamic placeholder text based on the selected department.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Features:
+
+## Secure login page with client-side validation.
+
+# Hardcoded credentials for login:
+
+    => Username: user123
+
+    => Password: pass123
+
+# Technologies Used
+
+## ReactJS: Frontend framework for building user interfaces.
+
+## HTML/CSS: Structuring and styling the web application.
+
+## JavaScript: Programming language for interactivity and logic.
+
+# Usage
+
+## Login:
+
+### Visit the login page and enter the provided credentials.
+### Username: user123
+### Password: pass123
+
+# Chatbot Screen:
+
+
+## Upon successful login, access the chatbot screen.
+## Use the department dropdown to select your area of interest (e.g., "Sales" or "Marketing").
+## Enter your queries in the chat input box and interact with the AI chatbot.
+
+# Deployment
+
+## https://my-react-login-ehngeoyje-md-salmans-projects-31476555.vercel.app
+
