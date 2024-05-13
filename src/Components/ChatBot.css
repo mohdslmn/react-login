@@ -11,12 +11,6 @@ body {
   justify-content: center;
   height: 90vh;
 }
-#department{
-  
-    /* border: 2px solid black; */
-    left: 20px;
-
-}
 
 .department-select select {
   padding: 8px;
